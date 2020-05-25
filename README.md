@@ -1,2 +1,2 @@
 # sort-python
-sorting algorithm implemented by Python
+sorting algorithms implemented by Python
